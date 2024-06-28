@@ -1,0 +1,13 @@
+
+V
+java:S1226:"@Introduce a new variable instead of reusing the parameter "btn".(¤ïÅÎ
+>
+java:S1659"(Declare "solutionTv" on a separate line.(¶ğˆ
+g
+java:S1659"LDeclare "buttonBrackOpen" and all following declarations on a separate line.(é§¥ÿÿÿÿÿ
+f
+java:S1659"KDeclare "buttonMultiply" and all following declarations on a separate line.(ÂÅÕôşÿÿÿÿ
+Z
+java:S1659"DDeclare "button1" and all following declarations on a separate line.(¦ŠÈ˜
+B
+java:S1659"'Declare "buttonDot" on a separate line.(‰¥ïüÿÿÿÿ
