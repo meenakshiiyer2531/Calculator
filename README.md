@@ -1,1 +1,1 @@
-
+The Calculator App is a straightforward Android application designed for performing essential arithmetic operations with ease. It provides a clean and intuitive interface for addition, subtraction, multiplication, and division, making it ideal for quick calculations on mobile devices.
